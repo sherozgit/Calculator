@@ -45,9 +45,7 @@ Preview
 
 ![image](https://github.com/user-attachments/assets/9d13506c-3da2-4d8e-9a38-e7fc598ec11c)
 
-5)Contributing
-Contributions, suggestions, and feature enhancements are welcome! Feel free to fork the repository and submit a pull request.
+5)Contributions, suggestions, and feature enhancements are welcome! Feel free to fork the repository and submit a pull request.
 
-6)License
-This project is open-source and available under the MIT License.
+6)This project is open-source and available under the MIT License.
  
